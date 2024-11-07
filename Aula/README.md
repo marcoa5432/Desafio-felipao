@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
@@ -54,4 +54,3 @@ Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
  
->>>>>>> 69f7cfa03b33c147a4dbdeb8a65410d81bbbd4a1

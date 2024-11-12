@@ -1,6 +1,6 @@
 // Declaração das variáveis
 let nomeHeroi = "Astra"; // Nome do herói (pode ser qualquer nome)
-let experiencia = 2000;  // Pontos de experiência do herói
+let experiencia = 7000;  // Pontos de experiência do herói, onde pode alterar o valor para ser classificado no nivel de xp
 
 // Variável para armazenar o nível do herói
 let nivel;
@@ -24,6 +24,6 @@ if (experiencia < 1000) {
     nivel = "Radiante";
 }
 
-
-console.log("O Herói de nome " ,  nomeHeroi , "está no nível de " ,  nivel); 
+console.log(`O Herói de nome ${nomeHeroi} está no nivel de ${nivel}`);
+//console.log("O Herói de nome " ,  nomeHeroi , "está no nível de " ,  nivel); 
  

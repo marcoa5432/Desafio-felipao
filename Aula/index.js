@@ -24,6 +24,9 @@ if (experiencia < 1000) {
     nivel = "Radiante";
 }
 
-console.log(`O Herói de nome ${nomeHeroi} está no nivel de ${nivel}`);
-//console.log("O Herói de nome " ,  nomeHeroi , "está no nível de " ,  nivel); 
+
+// Duas forma de exibir o nivel do herói
+
+console.log(`O Herói de nome ${nomeHeroi} está no nivel de ${nivel}.`);
+//console.log("O Herói de nome " , nomeHeroi , "está no nível de " ,  nivel); 
  
